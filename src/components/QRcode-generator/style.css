@@ -1,0 +1,37 @@
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f1f1f1;
+    flex-direction: column;
+}
+.QR{
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+.inputs{
+    margin: 15px;
+}
+input{
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 15px;
+} 
+.container button{
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
