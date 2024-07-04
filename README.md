@@ -1,6 +1,6 @@
 # React.js Practice Projects
 
-Welcome to my React.js Practice Projects repository! This collection of projects showcases my journey of learning and mastering React.js through building a variety of applications. Each project demonstrates different aspects of React development, including state management, API integration, and component design.
+Welcome to my React.js Practice Projects repository! This collection of projects showcases my journey of learning and mastering React.js through building a variety of applications. Each project is contained within a single React application, demonstrating different aspects of React development, including state management, API integration, and component design.
 
 ## Table of Contents
 
@@ -11,6 +11,7 @@ Welcome to my React.js Practice Projects repository! This collection of projects
   - [QR Code Generator](#qr-code-generator)
   - [Star Rating](#star-rating)
   - [Modal Pop-up](#modal-pop-up)
+  - 
 ## Projects
 
 ### Accordion
@@ -30,5 +31,7 @@ A star rating component where users can rate items by clicking on stars. This pr
 
 ### Modal Pop-up
 A reusable modal component that can be triggered to display additional information or content. This project illustrates component reuse and control of component visibility.
+
+---
 
 Feel free to customize this README as needed. If you have any additional details or specific instructions for each project, you can expand the respective sections.
